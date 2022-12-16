@@ -1,0 +1,26 @@
+link curso - otavio miranda
+https://www.youtube.com/playlist?list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk
+
+COMANDO PARA TERMINAL CONSOLE:
+
+show database; exibe os bancos criados 
+
+status; exibe as indomações do banco/tabelas
+
+show tables; exibe as tabelas do banco
+
+
+
+COMANDO PARA WORKBENCH
+
+create database [nome do banco]; cria um banco de dados
+
+create table [nome da tabela]; cria uma tabela
+
+use [nome do banco]; exibe as info do banco
+
+describe ou desc [nome da tabela]; exibe os campos da tabelas escolhida
+
+update [TABELA] set [coluna: CAMPO='NOME'] WHERE [linha:ID_CLIENTE='1'];
+
+selec * from [TABELA]; exibe todos os dados da tabela
